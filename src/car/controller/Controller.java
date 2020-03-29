@@ -1,5 +1,9 @@
 package car.controller;
 
+import car.model.Car;
+import car.model.CarDAO;
+import car.model.User;
+import car.model.UserDAO;
 import car.utils.Validation;
 import javafx.beans.property.SimpleStringProperty;
 import javafx.beans.value.ObservableValue;
